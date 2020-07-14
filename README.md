@@ -1,39 +1,17 @@
 # 基于MFC的贪吃蛇
 
 #### 介绍
-{**以下是码云平台说明，您可以替换此简介**
-码云是 OSCHINA 推出的基于 Git 的代码托管平台（同时支持 SVN）。专为开发者提供稳定、高效、安全的云端软件开发协作平台
-无论是个人、团队、或是企业，都能够用码云实现代码托管、项目管理、协作开发。企业项目请看 [https://gitee.com/enterprises](https://gitee.com/enterprises)}
+本程序字母贪吃蛇是作为《VC++高级程序设计》课程设计的作业，采用的是基于对话框的MFC程序框架。程序在传统贪吃蛇的基础上对玩法进行了改进，玩法是从词库中选择一个单词，然后操控蛇去吃到正确的字母，同时也保留了传统贪吃蛇的核心规则，如果吃到自己的身体或者墙壁和错误的字母就会游戏结束。如果正确吃完所有的字母则玩家可以选择是否进行下一关，程序会为玩家保存最好成绩。程序的优点是程序功能完整，界面友好、精美，编码正确、结构清晰，同时玩法新颖，还可以帮助记忆单词或编程关键词，寓教于乐。
 
 #### 软件架构
-软件架构说明
+开发软件：vc++ 6.0
 
 
 #### 安装教程
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+打开源程序文件夹里的.dsw文件，编译运行即可
+也可以直接下载realse文件夹体验
 
 #### 使用说明
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 码云特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  码云官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解码云上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是码云最有价值开源项目，是码云综合评定出的优秀开源项目
-5.  码云官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  码云封面人物是一档用来展示码云会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+见游戏内游戏规则
